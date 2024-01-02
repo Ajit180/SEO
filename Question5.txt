@@ -1,0 +1,20 @@
+Question 5: Define Favicon and give illustrative example
+
+Solutions: 
+
+   A favicon, short for "favorite icon," is a small, square icon associated with a website that appears in a browser's address bar or next to the site's name in bookmarks. Favicons serve as a visual representation of a website and contribute to brand recognition. They are typically in the ICO (Icon) file format, but other formats like PNG are also supported
+
+ Example:
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BookWorld - Your Online Bookstore</title>
+<!-- Favicon -->
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+</body>
